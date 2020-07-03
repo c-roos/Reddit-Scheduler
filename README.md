@@ -1,5 +1,7 @@
 # Reddit-Scheduler
-A multi-process program for scheduling Reddit submissions via Discord
+A multi-process program for scheduling Reddit submissions via Discord.
+
+I intend to make the discord bot public eventually, but currently I'm still testing and adding functionality.
 
 ## How It Works
 This program is intended to be a public web app that allows users to schedule submissions to Reddit. The backend runs on an AWS EC2 instance, while Amazon DynamoDB and RDS are used for user and scheduling data respectively.
